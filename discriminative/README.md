@@ -11,3 +11,7 @@ For instance, to reproduce the experiments, run
 ```
 python main.py --dataset waterbirds --load_base_model clip_RN50 --debias
 ```
+
+
+## Acknowledgements
+The code is primarily inspired by the supplement of [Zhang and Ré](https://openreview.net/forum?id=uPdS_7pdA9p).
